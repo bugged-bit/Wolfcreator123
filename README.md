@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vexironn or pryansh
+- 👋 Hi, I’m @bugged-bit or pryansh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me BY my phone number lol!😜
 
 <!---
